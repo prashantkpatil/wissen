@@ -7,7 +7,7 @@
 #  Step 2 - In later tutorials you will be shown how to **bind** to Predix services as described on predix.io
 
 applications:
-  - name: Predix-HelloWorld-WebApp-gurunathan 
+  - name: Predix-Hello-python-test
   
   # Step 1: Change your application name
     buildpack: staticfile_buildpack 
